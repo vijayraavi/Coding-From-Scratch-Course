@@ -11,3 +11,10 @@ employees = {"Name": "John", "age": 30, "Location": "New Jersey"}
 
 #Bytes
 x = b"Hello"
+
+# Float
+x = float(20.5)
+
+# Boolean
+yes = True
+no = False
